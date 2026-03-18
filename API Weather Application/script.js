@@ -3,7 +3,7 @@ const WEATHER_API_KEY = '6296d0ab1fe3ceb04fc5fe2036f90f24'; // Replace with your
 const WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 const PLACEHOLDER_API_URL = 'https://jsonplaceholder.typicode.com/posts';
 
-// Global state to store saved locations
+// Global state to store saved locations 
 let savedLocations = [];
 
 // DOM Elements
