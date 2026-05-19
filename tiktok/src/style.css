@@ -1,0 +1,7 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body { background-color: #121212; color: white; font-family: 'Circular', Arial, sans-serif; }
+
+.App { display: flex; flex-direction: column; height: 100vh; }
+
+.main-content { display: flex; flex: 1; overflow: hidden; }
